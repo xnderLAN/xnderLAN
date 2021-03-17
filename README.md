@@ -2,10 +2,7 @@
 
 I am Ghiles Mahleb, people call me Ghiles, Passionate since childhood, you are welcome in my world. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghiles-mahleb-600619188/)](https://www.linkedin.com/in/ghiles-mahleb-600619188/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mazy_lan/)](https://instagram.com/mazy_lan)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCfzuIVMY3ch5kZIJnuZUV9g)](https://www.youtube.com/channel/UCfzuIVMY3ch5kZIJnuZUV9g)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theghiles@gmail.com)](mailto:theghiles@gmail.com)
+[![Hack The Box](http://www.hackthebox.eu/badge/image/240886)](https://app.hackthebox.eu/profile/240886)
 
 ## ⚡ Technologies
 
@@ -25,6 +22,5 @@ I am Ghiles Mahleb, people call me Ghiles, Passionate since childhood, you are w
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnderlan&hide=TeX&layout=compact)
 [![XnderLAN github stats](https://github-readme-stats.vercel.app/api?username=xnderlan&theme=dark&show_icons=true)](https://github.com/xnderLAN)
-[![Hack The Box](http://www.hackthebox.eu/badge/image/240886)](https://app.hackthebox.eu/profile/240886)
+
